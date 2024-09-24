@@ -3,14 +3,14 @@
         "apps": [],
         "details": [
             {
-                "appID": "MVFHQ5JTUG.com.nymi.taptest",
+                "appID": "CWC2NFA698.com.nymi.taptest",
                 "paths": [ "*" ]  // Specify the paths you want to handle, or use ["*"] for all paths
             }
         ]
     },
     "webcredentials": {
         "apps": [
-            "MVFHQ5JTUG.com.nymi.taptest" 
+            "CWC2NFA698.com.nymi.taptest" 
         ]
     }
 }
