@@ -1,17 +1,16 @@
-
 {
     "applinks": {
+        "apps": [],
         "details": [
             {
-                "appIDs": [
-                   "CWC2NFA698.com.nymi.taptest--com.nymi.taptest--com.nymi.taptest--"
-                ]
+                "appID": "CWC2NFA698.com.nymi.taptest",
+                "paths": [ "*" ]  // Specify the paths you want to handle, or use ["*"] for all paths
             }
         ]
     },
     "webcredentials": {
         "apps": [
-            "CWC2NFA698.com.nymi.taptest--com.nymi.taptest--com.nymi.taptest--"
+            "CWC2NFA698.com.nymi.taptest" 
         ]
     }
 }
