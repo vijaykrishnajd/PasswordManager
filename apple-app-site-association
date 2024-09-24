@@ -1,12 +1,17 @@
 
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "CWC2NFA698.com.nymi.taptest--com.nymi.taptest--com.nymi.taptest--",
-        "paths": [ "/path/*" ]
-      }
-    ]
-  }
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                   "CWC2NFA698.com.nymi.taptest--com.nymi.taptest--com.nymi.taptest--"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "CWC2NFA698.com.nymi.taptest--com.nymi.taptest--com.nymi.taptest--"
+        ]
+    }
 }
