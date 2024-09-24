@@ -1,0 +1,12 @@
+
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.nymi.taptest--com.nymi.taptest--com.nymi.taptest--",
+        "paths": [ "/path/*" ]
+      }
+    ]
+  }
+}
