@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "CWC2NFA698.com.nymi.taptest",
-                "paths": [ "/redirect-connector.*" ]  // Specify the paths you want to handle, or use ["*"] for all paths
+                "paths": [ "*" ]  // Specify the paths you want to handle, or use ["*"] for all paths
             }
         ]
     },
